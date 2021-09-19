@@ -6,6 +6,9 @@ My discord server: https://discord.gg/qbmyJUfhPW
 Check out my youtube channel for other commands! : https://www.youtube.com/channel/UCxdUtzRNSLFDOM34cQAfRPQ  
 
 HOW TO USE?  
+RUN  
+npm i discord.js
+npm i package.json  
 
 *Step 1: open bot.js in config folder*  
 *Step 2: add token, prefix and activity*  
