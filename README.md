@@ -5,7 +5,9 @@ My discord server: https://discord.gg/qbmyJUfhPW
 
 Check out my youtube channel for other commands! : https://www.youtube.com/channel/UCxdUtzRNSLFDOM34cQAfRPQ  
 
+
 HOW TO USE?  
+Watch Video : https://www.youtube.com/watch?v=wfqwd4jo_OY&t=105s
 RUN  
 ``npm i discord.js``  
 ``npm i package.json``  
