@@ -7,7 +7,7 @@ Check out my youtube channel for other commands! : https://www.youtube.com/chann
 
 
 HOW TO USE?  
-Watch Video : https://www.youtube.com/watch?v=wfqwd4jo_OY&t=105s
+Watch Video : https://www.youtube.com/watch?v=wfqwd4jo_OY&t=105s  
 RUN  
 ``npm i discord.js``  
 ``npm i package.json``  
